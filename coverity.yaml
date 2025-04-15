@@ -1,0 +1,5 @@
+analyze:
+  checkers:
+    webapp-security:
+      enabled: true
+      aggressiveness-level: high
